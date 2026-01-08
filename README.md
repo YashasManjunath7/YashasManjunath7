@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashasmanjunath7" alt="yashasmanjunath7" /></a> </p>
 
-- 🔭 I’m currently working on [Tetris Classifier](https://github.com/YashasManjunath7/tetris_classifier)
-
 - 🌱 I’m currently learning **Tableau**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YashasManjunath7](https://github.com/YashasManjunath7)
